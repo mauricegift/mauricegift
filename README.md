@@ -1,5 +1,3 @@
-
-
 [![Gifted Maurice](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hi+Visitor%F0%9F%91%8B!;My+Name+is+Gifted+Maurice;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Kenya;Nice+to+Meet+You)](https://github.com/mauricegift)
 
 
@@ -35,17 +33,4 @@
 </div>
 
 
-
-<h3>Some of my Projects:</h3>
-
-<a href="https://github.com/mauricegift/gifted-md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mauricegift&repo=gifted-md&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-### Most repos are private so only output are seen
-<br>
-
-<br>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Gifted Maurice" />
-</p>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=mauricegift)
