@@ -58,7 +58,7 @@
 ### 🔗 LET'S CONNECT
 
 [![Website](https://img.shields.io/badge/me.gifted.co.ke-6e5cff?style=flat-square&logo=google-chrome&logoColor=white)](https://me.gifted.co.ke)
-[![Sponsor](https://img.shields.io/badge/Support%20%2F%20Pay-0ff4c6?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://pay.gifted.co.ke/pay/Apg8VQ3xh7SAwX1I)
+[![Sponsor](https://img.shields.io/badge/Support%20%2F%20Pay-0ff4c6?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://pay.gifted.co.ke/pay/mauricegift)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@giftedtechnexus)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/giftedtechnexus)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mauricegift)
